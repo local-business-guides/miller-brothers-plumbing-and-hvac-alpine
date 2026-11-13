@@ -23,6 +23,9 @@
 - [Top Plumber Ut in Alpine](https://local-business-guides.github.io/miller-brothers-plumbing-and-hvac-alpine/top-plumber-ut-in-alpine/): Top Plumber Ut in Alpine for plumbing repairs, replacements, and installations. Talk with an Alpine-based team and call Miller Brothers Plumbing & HVAC today.
 - [Best Plumber Ut Alpine](https://local-business-guides.github.io/miller-brothers-plumbing-and-hvac-alpine/best-plumber-ut-alpine/): Best Plumber Ut Alpine for plumbing repair, replacement, or installation help. Speak with Miller Brothers Plumbing & HVAC in Alpine and call today.
 
+## Newsroom
+- [Miller Brothers Shares Alpine Plumbing Guide in Four Formats](https://local-business-guides.github.io/miller-brothers-plumbing-and-hvac-alpine/news/2026-11-13-miller-brothers-shares-alpine-plumbing-guide-in/): Miller Brothers Plumbing & HVAC published a guide to Plumber In Alpine UT, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-13)
+
 ## Pages
 - [Plumber in Alpine, Utah](https://local-business-guides.github.io/miller-brothers-plumbing-and-hvac-alpine/): Get help with plumbing repairs, replacements, and installations from an Alpine-based team serving homes and businesses. Call +1435-260-4333.
 - [About Miller Brothers Plumbing & HVAC](https://local-business-guides.github.io/miller-brothers-plumbing-and-hvac-alpine/about/): About Miller Brothers Plumbing & HVAC, Alpine.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/miller-brothers-plumbing-and-hvac-alpine/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/miller-brothers-plumbing-and-hvac-alpine/news/rss.xml)
 - [Main resource site](https://miller-brothers-plumbing-alpine-ut.localwebsites.chatgpt.site)
